@@ -1,0 +1,9 @@
+{
+  "name": "funquick",
+  "description": "A real-time social video sharing and chat platform with personalized profiles, likes, and interactive sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
